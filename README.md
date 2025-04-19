@@ -1,6 +1,10 @@
 # 2c.SIMULATING ARP /RARP PROTOCOLS
+# NAME: JAGAN JP
+# REG.NO: 212224230099
+
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
+
 ## ALGORITHM:
 ## Client:
 1. Start the program
@@ -15,11 +19,19 @@ To write a python program for simulating ARP protocols using TCP.
 stored.
 4. Read the IP address which is send by the client.
 5. Map the IP address with its MAC address and return the MAC address to client.
-P
-## PROGRAM - ARP
-## OUPUT - ARP
-## PROGRAM - RARP
-## OUPUT -RARP
+
+## PROGRAM AND OUTPUT - ARP
+
+![Screenshot 2025-04-19 141025](https://github.com/user-attachments/assets/e0b5235f-89a7-4f81-bc96-544ceb1a85d5)
+
+![Screenshot 2025-04-19 141201](https://github.com/user-attachments/assets/23dbc7b5-41c5-4ca7-a62e-37d5a21324ef)
+
+## PROGRAM AND OUTPUT- RARP
+
+![Screenshot 2025-04-19 141316](https://github.com/user-attachments/assets/f3f19f15-5c94-4ac3-96a2-e099e7c374da)
+
+![Screenshot 2025-04-19 141349](https://github.com/user-attachments/assets/3b1cb7d3-890a-4dbb-9704-027dda4442a1)
+
 ## RESULT
 Thus, the python program for simulating ARP protocols using TCP was successfully 
 executed.
